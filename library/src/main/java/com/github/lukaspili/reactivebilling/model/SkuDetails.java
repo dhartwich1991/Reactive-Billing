@@ -6,17 +6,11 @@ package com.github.lukaspili.reactivebilling.model;
 public class SkuDetails {
 
     private final String productId;
-
     private final long priceAmountMicros;
-
     private final PurchaseType purchaseType;
-
     private final String price;
-
     private final String priceCurrencyCode;
-
     private final String title;
-
     private final String description;
 
     public SkuDetails(String productId, long priceAmountMicros, PurchaseType purchaseType, String price, String priceCurrencyCode, String title, String description) {
