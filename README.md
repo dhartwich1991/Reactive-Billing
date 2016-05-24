@@ -1,5 +1,7 @@
 # Reactive Billing for Android
 
+https://www.reddit.com/r/androiddev/comments/4kqzot/starting_a_new_rx_library_remember_to_respect_the/
+
 Cut the hassle when implementing in-app purchases on Android.  
 Reactive Billing is a lightweight reactive wrapper around In App Billing API v3 for Android.
 
